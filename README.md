@@ -6,3 +6,5 @@ En este repositorio se aloja una base de datos de Reseñas de Libros de Amazon, 
 Los docentes a cargo del dictado de dicha asignatura son la Dra Paola Britos, la Profesora Giuliana Fois y el Profesor Pablo Argañaras. 
 Tambien se ha cargado el archivo del flujo de los modelos de analisis creados en Orange y el informe del trabajo presentado. 
 
+La base de datos se encuentra en la plataforma Kaggle, link a la base https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews 
+
